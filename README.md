@@ -1,10 +1,56 @@
-- 👋 Hi, I’m @faisalimam1, a passionate CSE student exploring the depths of technology one code at a time.
-- 👀 I’m interested in Data Structures, Algorithms, Artificial Intelligence, Machine Learning, and Full Stack Development. I love solving real world problems and crafting efficient solutions.
-- 🌱 I’m currently diving deeper into DS Algo, with a focus on building projects that analyze user psychology. I'm also sharpening my skills in AI as part of my academic journey.
-- 🤝 I’m looking to collaborate on innovative projects that push the boundaries of technology—whether it's building smart apps, contributing to open-source, or creating cutting-edge solutions to real world problems.
-- 📫 You can reach me at imamfaisal36@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I'm not coding or playing with algorithms, you’ll find me in gym or the badminton court, pushing my limits with grit and dedication!
+# 👋 Hi there, I'm Faisal Imam
+
+🎓 **CSE Student | Tech Enthusiast | Problem Solver**  
+🚀 Exploring the depths of technology.
+
+---
+
+## 👀 Interests
+- 🔢 Data Structures & Algorithms  
+- 🧠 Artificial Intelligence & Machine Learning  
+- 🌐 Full Stack Development  
+- 💾 System Programming & Custom VFS (Virtual File System)  
+- 🧩 Solving real-world problems with efficient solutions  
+- 📊 Projects that analyze user psychology
+
+---
+
+## 🌱 Currently Learning
+- Diving deeper into **DSA** and **System-Level Programming**  
+- Developing a **Custom Virtual File System (VFS)** with in-memory caching  
+- Building **AI-powered projects**  
+- Sharpening backend and frontend skills to become a **Full Stack Developer**
+
+---
+
+## 🤝 Open to Collaborate On
+- 🚀 Innovative & impactful tech projects  
+- 🧠 AI/ML applications  
+- 💻 System programming and file system-level tools  
+- 🌍 Real-world problem solving  
+- 📦 Open-source contributions  
+- 📱 Smart apps and full stack solutions
+
+---
+
+## 📫 Contact Me
+📧 imamfaisal36@gmail.com
+
+---
+
+## 😄 Pronouns
+**He/Him**
+
+---
+
+## ⚡ Fun Fact
+When I’m not coding or playing with algorithms,  
+you’ll find me in the **gym** or on the **badminton court**,  
+**pushing my limits with grit and dedication!**
+
+---
+
+> *“Code with purpose. Build with passion.”*
 
 <!---
 faisalimam1/faisalimam1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
