@@ -9,7 +9,7 @@
 - 🔢 Data Structures & Algorithms  
 - 🧠 Artificial Intelligence & Machine Learning  
 - 🌐 Full Stack Development  
-- 💾 System Programming & Custom VFS (Virtual File System)  
+- 💾 System Programming
 - 🧩 Solving real-world problems with efficient solutions  
 - 📊 Projects that analyze user psychology
 
@@ -18,8 +18,7 @@
 ## 🌱 Currently Learning
 - Diving deeper into **DSA** and **System-Level Programming**  
 - Developing a **Custom Virtual File System (VFS)** with in-memory caching  
-- Building **AI-powered projects**  
-- Sharpening backend and frontend skills to become a **Full Stack Developer**
+- Building **AI-powered projects** 
 
 ---
 
