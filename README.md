@@ -1,13 +1,13 @@
 # 👋 Hi there, I'm Faisal Imam
 
-🎓 **CSE Student | Tech Enthusiast | Problem Solver**  
+🎓 ** AI/ML Engineer(Aspiring) | CSE Student | Tech Enthusiast | Problem Solver**  
 🚀 Exploring the depths of technology.
 
 ---
 
 ## 👀 Interests
-- 🔢 Data Structures & Algorithms  
-- 🧠 Artificial Intelligence & Machine Learning  
+- 🧠 Artificial Intelligence & Machine Learning
+- 🔢 Data Structures & Algorithms
 - 🌐 Full Stack Development  
 - 💾 System Programming
 - 🧩 Solving real-world problems with efficient solutions  
@@ -16,7 +16,7 @@
 ---
 
 ## 🌱 Currently Learning
-- Diving deeper into **DSA** and **System-Level Programming**  
+- Diving deeper into **AI/ML** and **Understanding DSA**  
 - Developing a **Custom Virtual File System (VFS)** with in-memory caching  
 - Building **AI-powered projects** 
 
@@ -25,10 +25,9 @@
 ## 🤝 Open to Collaborate On
 - 🚀 Innovative & impactful tech projects  
 - 🧠 AI/ML applications  
-- 💻 System programming and file system-level tools  
-- 🌍 Real-world problem solving  
-- 📦 Open-source contributions  
-- 📱 Smart apps and full stack solutions
+- 💻 System programming and file system level tools  
+- 🌍 Real world problem solving  
+- 📦 Open source contributions
 
 ---
 
