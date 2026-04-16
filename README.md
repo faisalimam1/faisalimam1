@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Faisal Imam
 
-🎓 ** AI/ML Engineer(Aspiring) | CSE Student | Tech Enthusiast | Problem Solver**  
+🎓 **AI/ML Engineer(Aspiring) | CSE Student | Tech Enthusiast | Problem Solver**  
 🚀 Exploring the depths of technology.
 
 ---
