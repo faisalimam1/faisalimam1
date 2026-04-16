@@ -34,6 +34,8 @@
 
 ## 📫 Contact Me
 📧 imamfaisal36@gmail.com
+👉 [Connect with me on LinkedIn](https://www.linkedin.com/in/faisalimam19)
+
 
 ---
 
