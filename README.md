@@ -9,7 +9,6 @@
 - 🧠 Artificial Intelligence & Machine Learning
 - 🔢 Data Structures & Algorithms
 - 🌐 Full Stack Development  
-- 💾 System Programming
 - 🧩 Solving real-world problems with efficient solutions  
 - 📊 Projects that analyze user psychology
 
@@ -17,15 +16,14 @@
 
 ## 🌱 Currently Learning
 - Diving deeper into **AI/ML** and **Understanding DSA**  
-- Developing a **Custom Virtual File System (VFS)** with in-memory caching  
-- Building **AI-powered projects** 
+- Building **AI-powered projects like RAG, Mental Health project** 
 
 ---
 
 ## 🤝 Open to Collaborate On
 - 🚀 Innovative & impactful tech projects  
 - 🧠 AI/ML applications  
-- 💻 System programming and file system level tools  
+- 💻 System programming
 - 🌍 Real world problem solving  
 - 📦 Open source contributions
 
